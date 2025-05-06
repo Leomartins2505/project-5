@@ -61,3 +61,12 @@ streamlit run app.py
 ```
 
 The app will open in your browser at `http://localhost:8501`.
+
+## 🌐 Live Application
+
+You can view the deployed Streamlit dashboard here:  
+➡️ [https://project-5-zgt0.onrender.com](https://project-5-zgt0.onrender.com)
+
+## 📓 Exploratory Data Analysis
+
+The `EDA.ipynb` notebook is included in the `notebooks/` folder and contains initial data exploration, histograms, and scatter plots used to build the dashboard.
